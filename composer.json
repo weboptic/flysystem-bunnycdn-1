@@ -1,11 +1,15 @@
 {
-    "name": "platformcommunity/flysystem-bunnycdn",
+    "name": "weboptic/flysystem-bunnycdn",
     "description": "Flysystem adapter for BunnyCDN",
     "license": "MIT",
     "authors": [
         {
             "name": "Alex Sinnott",
             "email": "alex@platformapp.io"
+        },
+        {
+            "name": "Shane Deakin",
+            "email": "shane@weboptic.com"
         }
     ],
     "require": {
